@@ -1,0 +1,6 @@
+{
+  "name": "Dog Days Pet Sitting of Estero",
+  "description": "Professional, certified, and fully insured in-home pet sitting, dog walking, and pet care services in Estero, Florida by Sharon & Tim Hanson.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
